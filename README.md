@@ -14,4 +14,4 @@ Wifi connected sensor nodes in Arduino with MDNS
 
 * VespeneTap
   * For use on an ESP8266. Serves a webpage that can poll the VespeneHub and display its data.
-  * The `data` directory uploaded to SPIFFS
+  * The `data` directory must be uploaded to SPIFFS
